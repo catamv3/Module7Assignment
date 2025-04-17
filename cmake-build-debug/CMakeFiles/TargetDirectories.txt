@@ -1,0 +1,3 @@
+/cygdrive/c/Users/micha/CLionProjects/CSC343/Homeworks/Module7Assignment/cmake-build-debug/CMakeFiles/Module7Assignment.dir
+/cygdrive/c/Users/micha/CLionProjects/CSC343/Homeworks/Module7Assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/micha/CLionProjects/CSC343/Homeworks/Module7Assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
